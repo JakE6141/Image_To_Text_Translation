@@ -14,4 +14,6 @@ The core functionalities include optical character recognition (OCR) and languag
 * Android application for ease and every day use
 * Add a filtering mode for unclear images(enhance RGB values and make photo overall easier to read in)
 # Example Images
-<img src="1ss1.png" alt="Image 1" style="width: 300px; display: inline-block;">
+<img src="exampleImages/1ss1.png" alt="Image 1" style="width: 500px; display: inline-block;">
+<img src="exampleImages/1ss2.png" alt="Image 2" style="width: 500px; display: inline-block;">
+<img src="exampleImages/1ss3.png" alt="Image 1" style="width: 500px; display: inline-block;">
