@@ -15,5 +15,16 @@ The core functionalities include optical character recognition (OCR) and languag
 * Add a filtering mode for unclear images(enhance RGB values and make photo overall easier to read in)
 # Example Images
 <img src="exampleImages/1ss1.png" alt="Image 1" style="width: 500px; display: inline-block;">
-<img src="exampleImages/1ss2.png" alt="Image 2" style="width: 500px; display: inline-block;">
-<img src="exampleImages/1ss3.png" alt="Image 1" style="width: 500px; display: inline-block;">
+<img src="exampleImages/1ss2 (2).png" alt="Image 2" style="width: 500px; display: inline-block;">
+<img src="exampleImages/1ss3.png" alt="Image 3" style="width: 500px; display: inline-block;">
+<hr style="border-top: 1px solid #ccc; width: 100%; margin: 20px 0;">
+<img src="exampleImages/2ss2.png" alt="Image 5" style="width: 500px; display: inline-block;">
+<img src="exampleImages/2ss1.png" alt="Image 4" style="width: 500px; display: inline-block;">
+<img src="exampleImages/2ss3.png" alt="Image 6" style="width: 500px; display: inline-block;">
+<hr style="border-top: 1px solid #ccc; width: 100%; margin: 20px 0;">
+<img src="exampleImages/3ss2.png" alt="Image 8" style="width: 500px; display: inline-block;">
+<img src="exampleImages/3ss1.png" alt="Image 7" style="width: 500px; display: inline-block;">
+<img src="exampleImages/3ss3.png" alt="Image 8" style="width: 500px; display: inline-block;">
+
+
+
